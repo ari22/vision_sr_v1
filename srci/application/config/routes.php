@@ -1,0 +1,1 @@
+<?phpif (!defined('BASEPATH'))    exit('No direct script access allowed');//$route['home'] = 'home/index';$route['default_controller'] = 'main';$route['404_override'] = '';$route['scaffolding_trigger'] = "";/* Location: ./application/config/routes.php */
